@@ -15,10 +15,10 @@ My name is QUOC :3
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LikuroCplus&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
